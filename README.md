@@ -2,10 +2,10 @@
 Conversor de um Autômato Finito Não-Determinístico para um Autômato Finito Determinístico  
 Projeto final da disciplina **Linguagens Formais e Autômatos**
 
-# Tecnologias Usadas:
+## Tecnologias Usadas:
 🔵 Python
 
-# Como Usar:
+## Como Usar:
 
 Para converter um autômato NFA para um DFA basta digitar o seguinte comando no terminal:
 ```
